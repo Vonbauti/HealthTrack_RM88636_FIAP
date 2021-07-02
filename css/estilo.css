@@ -1,0 +1,13 @@
+body{font-family: Calibri; background-color: #50d190;}
+footer{clear:both; padding-top: 64px;}
+h1 {color:#202020; font-size:30px; text-align: center; font-weight: bold;}
+h2 {color:#000; font-size:38px; text-align: center;}
+h3 {color:#FFF; font-size:30px; text-align: center;}
+h4 {color:#FFF; font-size:25px; text-align: center; font-weight: bold;}
+
+#historico {font-size: 45px; color: white; font-weight: bold;}
+#historico h2{float: left; font-size: 45px; color: white; font-weight: bold;}
+#historico h3{float: right; font-size: 45px; color: white; font-weight: bold;}
+a{text-decoration-color: #202020;}
+
+aside h2{color:#000; font-size:25px; float: left;}
